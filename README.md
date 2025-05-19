@@ -3,9 +3,9 @@
 <p><em>Student at <a href="http://www.unb.br">Rishihood University</a>
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Ani_s_h?style=social)](https://x.com/Anshsha_45)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-aniiiiiiiii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ansh-sharma-1090b7323/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/anish877?label=follow&style=social)](https://https://github.com/Anshsharma4552)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/An_s_h?style=social)](https://x.com/Anshsha_45)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-ansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ansh-sharma-1090b7323/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Anshsharma4552?label=follow&style=social)](https://https://github.com/Anshsharma4552)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with people</b> and am always open to new conversations. Feel free to say <b>hi</b>—I'm happy to connect!</em>
